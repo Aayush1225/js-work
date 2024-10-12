@@ -26,3 +26,17 @@ let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
 
+
+//   ******************  Operation  ******************
+
+let value = 4
+let negValue =-value
+console.log(negValue);
+
+let strl1 ="hello "
+let strl2 ="aayush"
+console.log(strl1+strl2);
+
+
+
+
